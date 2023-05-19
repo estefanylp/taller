@@ -1,0 +1,500 @@
+{
+	"cursos": [
+		{
+			"nombre": "Introducción a la programación",
+			"profesor": "Juan Pérez",
+			"duracion": "4 semanas",
+			"precio": 100,
+			"horario": "Lunes y miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 15
+		},
+		{
+			"nombre": "Diseño gráfico avanzado",
+			"profesor": "María Rodríguez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Martes y jueves de 16:00 a 18:00",
+			"cupos_disponibles": 10
+		},
+		{
+			"nombre": "Inglés intermedio",
+			"profesor": "Laura Smith",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Lunes y miércoles de 10:00 a 12:00",
+			"cupos_disponibles": 20
+		},
+		{
+			"nombre": "Marketing digital",
+			"profesor": "Carlos Gómez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Martes y jueves de 18:00 a 20:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Fotografía básica",
+			"profesor": "Ana Torres",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Sábados de 10:00 a 13:00",
+			"cupos_disponibles": 12
+		},
+		{
+			"nombre": "Finanzas personales",
+			"profesor": "Javier López",
+			"duracion": "4 semanas",
+			"precio": 100,
+			"horario": "Viernes de 19:00 a 21:00",
+			"cupos_disponibles": 8
+		},
+		{
+			"nombre": "Desarrollo web avanzado",
+			"profesor": "Roberto Fernández",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Dibujo artístico",
+			"profesor": "Sofía Ramírez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Lunes y miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 7
+		},
+		{
+			"nombre": "Programación en Python",
+			"profesor": "Pedro López",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Viernes de 16:00 a 18:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Yoga para principiantes",
+			"profesor": "María González",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 8:00 a 10:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Diseño de interiores",
+			"profesor": "Alejandra Torres",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Miércoles y viernes de 15:00 a 17:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Contabilidad básica",
+			"profesor": "Juan García",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Jueves de 18:00 a 20:00",
+			"cupos_disponibles": 9
+		},
+		{
+			"nombre": "Programación en Java",
+			"profesor": "Luis Sánchez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Lunes y miércoles de 14:00 a 16:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Diseño web responsivo",
+			"profesor": "Ana García",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 10:00 a 12:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Francés básico",
+			"profesor": "Sophie Martin",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Lunes y miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 10
+		},
+		{
+			"nombre": "Fotografía digital avanzada",
+			"profesor": "Roberto Soto",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Jueves de 10:00 a 12:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Diseño de moda",
+			"profesor": "María López",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Martes y viernes de 16:00 a 18:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Marketing en redes sociales",
+			"profesor": "Carlos Torres",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 8
+		},
+		{
+			"nombre": "Diseño de videojuegos",
+			"profesor": "Javier Rodríguez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Lunes y jueves de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Pintura al óleo",
+			"profesor": "María Fernández",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Administración de proyectos",
+			"profesor": "Pedro Gómez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Miércoles y viernes de 10:00 a 12:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Baile latino",
+			"profesor": "Andrea Ramírez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Jueves de 20:00 a 22:00",
+			"cupos_disponibles": 7
+		},
+		{
+			"nombre": "Introducción a la inteligencia artificial",
+			"profesor": "Laura Sánchez",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 18:00 a 20:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Fotografía de retratos",
+			"profesor": "Roberto Torres",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Viernes de 14:00 a 16:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Inglés avanzado",
+			"profesor": "David Johnson",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Lunes y miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Diseño de interacción",
+			"profesor": "María Torres",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Martes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Nutrición y bienestar",
+			"profesor": "Ana López",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Ilustración digital",
+			"profesor": "Carlos Ramírez",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Jueves de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Arquitectura moderna",
+			"profesor": "Luis Torres",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Martes y viernes de 10:00 a 12:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Fotografía de paisajes",
+			"profesor": "María Sánchez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Programación en C++",
+			"profesor": "Javier Ramírez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Lunes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Danza contemporánea",
+			"profesor": "Laura López",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 18:00 a 20:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Escritura creativa",
+			"profesor": "Roberto Sánchez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Viernes de 16:00 a 18:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Gestión de recursos humanos",
+			"profesor": "María García",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Miércoles y viernes de 14:00 a 16:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Pilates",
+			"profesor": "Carlos López",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Jueves de 20:00 a 22:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Desarrollo de aplicaciones móviles",
+			"profesor": "Luis García",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Martes y viernes de 16:00 a 18:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Dibujo digital",
+			"profesor": "Ana Torres",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Inglés para negocios",
+			"profesor": "David Johnson",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Lunes y miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Diseño de producto",
+			"profesor": "María Torres",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Martes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Mindfulness y meditación",
+			"profesor": "Ana López",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Fotografía de eventos",
+			"profesor": "Carlos Ramírez",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Jueves de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Arquitectura sostenible",
+			"profesor": "Luis Torres",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Martes y viernes de 10:00 a 12:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Fotografía de naturaleza",
+			"profesor": "María Sánchez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Programación en C#",
+			"profesor": "Javier Ramírez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Lunes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Danza clásica",
+			"profesor": "Laura López",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 18:00 a 20:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Escritura de guiones",
+			"profesor": "Roberto Sánchez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Viernes de 16:00 a 18:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Gestión de proyectos ágiles",
+			"profesor": "María García",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Miércoles y viernes de 14:00 a 16:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Yoga para embarazadas",
+			"profesor": "Ana López",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Jueves de 20:00 a 22:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Desarrollo de aplicaciones web",
+			"profesor": "Luis García",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Martes y viernes de 16:00 a 18:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Ilustración digital avanzada",
+			"profesor": "Ana Torres",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Inglés para viajes",
+			"profesor": "David Johnson",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Lunes y miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Diseño de servicios",
+			"profesor": "María Torres",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Martes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Mindfulness en el trabajo",
+			"profesor": "Ana López",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 18:00 a 20:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Fotografía de moda",
+			"profesor": "Carlos Ramírez",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Jueves de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Marketing digital",
+			"profesor": "Sofía González",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Lunes y miércoles de 14:00 a 16:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Dibujo artístico",
+			"profesor": "Laura Torres",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 16:00 a 18:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Historia del arte",
+			"profesor": "Jorge Ramírez",
+			"duracion": "12 semanas",
+			"precio": 300,
+			"horario": "Martes y viernes de 10:00 a 12:00",
+			"cupos_disponibles": 2
+		},
+		{
+			"nombre": "Fotografía de arquitectura",
+			"profesor": "María Sánchez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Miércoles de 16:00 a 18:00",
+			"cupos_disponibles": 6
+		},
+		{
+			"nombre": "Programación en Python",
+			"profesor": "Juan Rodríguez",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Lunes y jueves de 14:00 a 16:00",
+			"cupos_disponibles": 4
+		},
+		{
+			"nombre": "Baile urbano",
+			"profesor": "Luis López",
+			"duracion": "8 semanas",
+			"precio": 200,
+			"horario": "Martes y jueves de 18:00 a 20:00",
+			"cupos_disponibles": 3
+		},
+		{
+			"nombre": "Escritura creativa avanzada",
+			"profesor": "María Sánchez",
+			"duracion": "6 semanas",
+			"precio": 150,
+			"horario": "Viernes de 16:00 a 18:00",
+			"cupos_disponibles": 5
+		},
+		{
+			"nombre": "Gestión de equipos de trabajo",
+			"profesor": "Pedro García",
+			"duracion": "10 semanas",
+			"precio": 250,
+			"horario": "Miércoles y viernes de 14:00 a 16:00",
+			"cupos_disponibles": 2
+		}
+	]
+}
